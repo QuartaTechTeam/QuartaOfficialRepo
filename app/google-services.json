@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1066056408308",
+    "project_id": "quarta-otp-verification",
+    "storage_bucket": "quarta-otp-verification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066056408308:android:f5ce0369be52e893a0d2a1",
+        "android_client_info": {
+          "package_name": "com.example.quarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066056408308-0ic5fvg6t534mgde893jioshr09c2d3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quarta",
+            "certificate_hash": "da2fc0a8739aab8206c1aab413d035239b44e0d1"
+          }
+        },
+        {
+          "client_id": "1066056408308-907pen3ngikj85ggjhcs1avoer0s7j9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9JVj4O4H2fVtAh6hoOExRAEF7qDl8RxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066056408308-907pen3ngikj85ggjhcs1avoer0s7j9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
